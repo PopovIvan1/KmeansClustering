@@ -1,0 +1,1 @@
+Read a description of "k-means clustering" algorithm and write an sketch implementation for the case when you get array of 3D-points (as a 3-floats arrays) and return clusters coordinates.
